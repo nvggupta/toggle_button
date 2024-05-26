@@ -65,3 +65,8 @@
   #heading {
     color: white;
   }
+  img{
+    height: 90%;
+    width: 90%;
+    object-fit: contain;
+  }
